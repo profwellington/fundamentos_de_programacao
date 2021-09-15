@@ -1,6 +1,14 @@
 #!/usr/bin/env python
 
-''' Programa - AD1.1Q1 '''
+''' Programa - AD1.1Q1 
+    Se o número for ímpar 
+        * atribui o número ao raio
+        * a partir do raio realiza o cálculo e exibe:
+            * área
+            * perímetro
+    Senão
+        * exibir todos os valores divisíveis do número
+'''
 
 import math
 
